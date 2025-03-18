@@ -24,7 +24,7 @@ const P = {
   PELLET: 1,
   POWERPILL: 2 
 };
-const pColor = '#FFB897';
+const pColor = '#000000';
 const gColor = 0x2121DE;
 const gNormSpeed = 0.65;
 const gSlowSpeed = 0.2;
